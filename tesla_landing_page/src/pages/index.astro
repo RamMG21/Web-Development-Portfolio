@@ -1,11 +1,59 @@
 ---
-import Welcome from '../components/Welcome.astro';
+import HeroSection from '../components/HeroSection.astro';
+import LandigHeader from '../components/LandigHeader.astro';
 import Layout from '../layouts/Layout.astro';
+import ModelYSection from '../components/ModelYSection.astro';
+import Model3 from '../components/Model3.astro';
+import ModelX from '../components/ModelX.astro';
+import ModelS from '../components/ModelS.astro';
+import Cybertruck from '../components/Cybertruck.astro';
+import SolarPanels from '../components/SolarPanels.astro';
+import Powerwall from '../components/Powerwall.astro';
+
 
 // Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
 // Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
 ---
 
-<Layout>
-	<Welcome />
+<Layout title="Wlcome tyo Tesla">
+	<LandigHeader/>
+
+
+	<main class="snap-y snap-mandatory relative w-full h-screen overflow-auto scroll-smooth">
+		<div class="snap-center">
+			<HeroSection/>
+		</div>
+
+		<div class="snap-center">
+			<ModelYSection/>
+		</div>
+
+		<div class="snap-center">
+			<Model3/>
+		</div>
+
+		<div class="snap-center">
+			<ModelX/>
+		</div>
+
+		<div class="snap-center">
+			<ModelS/>
+		</div>
+
+		<div class="snap-center">
+			<Cybertruck/>
+		</div>
+
+		<div class="snap-center">
+			<SolarPanels/>
+		</div>
+
+		<div class="snap-center">
+			<Powerwall/>
+		</div>
+		
+		
+	</main>
+
+
 </Layout>
