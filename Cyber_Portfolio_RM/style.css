@@ -1,0 +1,437 @@
+.box {
+  width: 1920px;
+  height: 1080px;
+}
+
+.box .cyber-portafolio {
+  position: fixed;
+  width: 1926px;
+  height: 1080px;
+  top: 0;
+  left: 0;
+}
+
+.box .overlap {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  background-color: #010101;
+}
+
+.box .button-group {
+  display: inline-flex;
+  align-items: flex-start;
+  position: absolute;
+  top: 279px;
+  left: 107px;
+}
+
+.box .button {
+  all: unset;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.box .subtract {
+  width: 16px;
+  position: relative;
+  height: 64px;
+}
+
+.box .frame {
+  height: 64px;
+  padding: 22px;
+  background-color: #02d7f2;
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.box .text-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: fit-content;
+  margin-top: -0.50px;
+  margin-bottom: -0.50px;
+  font-family: "Chakra Petch-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #010101;
+  font-size: 16px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+}
+
+.box .img {
+  width: 20px;
+  position: relative;
+  height: 64px;
+}
+
+.box .button-wrapper {
+  display: inline-flex;
+  height: 64px;
+  align-items: flex-start;
+  padding: 22px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #007aff26;
+}
+
+.box .div {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: fit-content;
+  margin-top: -0.50px;
+  margin-bottom: -0.50px;
+  font-family: "Chakra Petch-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+}
+
+.box .button-2 {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  width: fit-content;
+  margin-top: -0.50px;
+  margin-bottom: -0.50px;
+  font-family: "Chakra Petch-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+}
+
+.box .overlap-group {
+  position: absolute;
+  width: 1139px;
+  height: 181px;
+  top: 74px;
+  left: 107px;
+}
+
+.box .text-wrapper-2 {
+  position: absolute;
+  top: 108px;
+  left: 0;
+  font-family: "Chakra Petch-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 56px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .jose-ramses-moreno {
+  position: absolute;
+  width: 1139px;
+  top: 0;
+  left: 0;
+  font-family: "Bai Jamjuree-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .cards-large-default {
+  display: flex;
+  width: 464px;
+  height: 400px;
+  align-items: flex-start;
+  position: absolute;
+  top: 419px;
+  left: 107px;
+}
+
+.box .side-wedge {
+  position: relative;
+  align-self: stretch;
+  flex: 0 0 auto;
+}
+
+.box .main {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  flex-grow: 1;
+  background-color: #02d7f2;
+}
+
+.box .rectangle {
+  width: 48px;
+  height: 2px;
+  top: 56px;
+  background-color: #010101;
+  position: absolute;
+  left: 16px;
+}
+
+.box .text-wrapper-3 {
+  top: 48px;
+  left: 336px;
+  color: #010101;
+  position: absolute;
+  font-family: "Chakra Petch-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 2.40px;
+  line-height: normal;
+}
+
+.box .i-earned-my-bachelor {
+  position: absolute;
+  width: 401px;
+  top: 106px;
+  left: 16px;
+  font-family: "Chakra Petch-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #010101;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .p {
+  position: absolute;
+  width: 400px;
+  top: 312px;
+  left: 16px;
+  font-family: "Bai Jamjuree-Medium", Helvetica;
+  font-weight: 500;
+  color: #010101;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .overlap-2 {
+  position: absolute;
+  width: 411px;
+  height: 400px;
+  top: 419px;
+  left: 940px;
+}
+
+.box .UAA-CARD {
+  position: absolute;
+  width: 411px;
+  height: 400px;
+  top: 0;
+  left: 0;
+}
+
+.box .image-frame {
+  position: relative;
+  height: 400px;
+}
+
+.box .rectangle-2 {
+  width: 379px;
+  height: 368px;
+  top: 16px;
+  background-color: #007aff26;
+  position: absolute;
+  left: 16px;
+}
+
+.box .corners {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+}
+
+.box .corners-2 {
+  top: 384px;
+  left: 0;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+}
+
+.box .corners-3 {
+  top: 0;
+  left: 395px;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+}
+
+.box .corners-4 {
+  top: 384px;
+  left: 395px;
+  position: absolute;
+  width: 16px;
+  height: 16px;
+}
+
+.box .top {
+  position: absolute;
+  width: 379px;
+  height: 16px;
+  top: 0;
+  left: 16px;
+  object-fit: cover;
+}
+
+.box .bottom {
+  position: absolute;
+  width: 379px;
+  height: 16px;
+  top: 384px;
+  left: 16px;
+  object-fit: cover;
+}
+
+.box .left {
+  position: absolute;
+  width: 16px;
+  height: 368px;
+  top: 16px;
+  left: 0;
+}
+
+.box .right {
+  position: absolute;
+  width: 16px;
+  height: 368px;
+  top: 16px;
+  left: 395px;
+  background-color: #007aff26;
+  transform: rotate(-180.00deg);
+}
+
+.box .university {
+  position: absolute;
+  width: 340px;
+  top: 15px;
+  left: 37px;
+  font-family: "Chakra Petch-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #02d7f2;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .cards {
+  top: 419px;
+  position: absolute;
+  width: 304px;
+  height: 151px;
+  left: 596px;
+}
+
+.box .overlap-group-2 {
+  position: relative;
+  height: 192px;
+  background-color: #010101;
+  border: 2px solid;
+  border-color: #02d7f2;
+}
+
+.box .text-wrapper-4 {
+  top: 37px;
+  left: 190px;
+  color: #02d7f2;
+  position: absolute;
+  font-family: "Chakra Petch-Bold", Helvetica;
+  font-weight: 700;
+  font-size: 12px;
+  text-align: right;
+  letter-spacing: 2.40px;
+  line-height: normal;
+}
+
+.box .container {
+  position: absolute;
+  width: 48px;
+  height: 2px;
+  top: 46px;
+  left: 30px;
+  background-color: #02d7f2;
+}
+
+.box .goodmorning-night {
+  position: absolute;
+  width: 240px;
+  top: 54px;
+  left: 30px;
+  font-family: "Chakra Petch-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #02d7f2;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .overlap-wrapper {
+  top: 631px;
+  position: absolute;
+  width: 304px;
+  height: 151px;
+  left: 596px;
+}
+
+.box .label-divider {
+  display: flex;
+  width: 749px;
+  align-items: flex-end;
+  justify-content: center;
+  position: absolute;
+  top: 362px;
+  left: 107px;
+}
+
+.box .label-wrapper {
+  padding: 4px 8px;
+  background-color: #007aff26;
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.box .label {
+  position: relative;
+  width: fit-content;
+  margin-top: -1.00px;
+  font-family: "Chakra Petch-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #02d7f2;
+  font-size: 16px;
+  letter-spacing: 0.64px;
+  line-height: normal;
+}
+
+.box .bar {
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  height: 2px;
+  background-color: #007aff26;
+}
+
+.box .label-divider-2 {
+  display: flex;
+  width: 891px;
+  align-items: flex-end;
+  justify-content: center;
+  position: absolute;
+  top: 362px;
+  left: 940px;
+}
